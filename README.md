@@ -70,3 +70,4 @@ OpenResume is created with the NextJS web framework and follows its project stru
 4. Start the container `docker run -p 3000:3000 open-resume`
 5. Open your browser and visit [http://localhost:3000](http://localhost:3000) to see OpenResume live
 # hr-tool
+# hr-tool
